@@ -1,6 +1,11 @@
 #include <stdio.h>
 
+def hello1()
+{
+}
+
 def hello() {
+ int i = 0;
 }
 
 size_t my_strlen(cons char *s)
