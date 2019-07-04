@@ -5,7 +5,10 @@ def hello1()
 }
 
 def hello() {
+ int i = 0
+ int i11 = 11;
  int i1 = 0;
+ int y = 3;
 }
 
 size_t my_strlen(cons char *s)
